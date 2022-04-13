@@ -1,0 +1,20 @@
+//
+//  Localizable.strings
+//  
+//
+//  Created by Siddarth Gandhi on 10/27/20.
+//
+
+// MARK: - Device Name View
+"DeviceNameView.TextField.Placeholder" = "Name Your Device";
+
+// MARK: - Step Timer Control
+"timer.minutes" = "min";
+"timer.seconds" = "sec";
+
+// MARK: - Permission cards
+"on" = "on";
+"off" = "off";
+
+// MARK: - Step Row View
+"step.format" = "Step %i";
